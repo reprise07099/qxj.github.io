@@ -20,7 +20,7 @@ redirect_from:
 I am a PhD candidate in Applied Physics, Caltech. 
 
 My research interest includes photonics. I have published 8 papers at journals and conferences <a href='https://scholar.google.com/citations?user=5wkRkHUAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
- (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<span class='show_paper_citations' data='5wkRkHUAAAAJ:qjMakFHDy7sC'></span>
 
 
 # 🔥 News
