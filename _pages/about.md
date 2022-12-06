@@ -24,8 +24,8 @@ My research interest includes photonics. I have published 8 papers at journals a
 
 
 # 🔥 News
-- *2022.11*: &nbsp;✈️ I work with collaborators at National Institute of Standards and Technology at Boulder, Colorado. 
 - *2022.06*: &nbsp;🎉 Our paper "Probing material absorption and optical nonlinearity of integrated photonic materials" is published by <i>Nature Communications</i>!
+- *2022.05*: &nbsp;🎉 Our conference paper "Efficiency of pulse pumped soliton microcombs" is presented at <i>CLEO 2022</i>!
 - *2022.02*: &nbsp;🎉 Our paper "Efficiency of pulse pumped soliton microcombs" is published by <i>Optica</i>!
 - *2021.07*: &nbsp;🏫 I start working at Caltech, Pasadena, California.
 
@@ -48,7 +48,7 @@ Jiang Li, Chengying Bao, Qing-Xin Ji, Heming Wang, Lue Wu, Stephanie Leifer, Cha
 
 # 📖 Educations
 - *2020.09 - Now*, PhD candidate in Applied Physics, Caltech, Pasadena, California. 
-- *2020.09 - 2022.06*, Master in Applied Physics, Caltech, Pasadena, California. 
+- *2021.01 - 2022.06*, Master in Applied Physics, Caltech, Pasadena, California. 
 - *2016.09 - 2020.06*, Undergraduate in Physics, Peking University, Beijing. 
 
 # 💻 Internships
