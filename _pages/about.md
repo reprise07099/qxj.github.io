@@ -34,16 +34,15 @@ My research interest includes photonics. I have published 8 papers at journals a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- [Probing material absorption and optical nonlinearity of integrated photonic materials](https://www.nature.com/articles/s41467-022-30966-5)
+Gao, M., Yang, QF., Ji, QX. et al. Probing material absorption and optical nonlinearity of integrated photonic materials. <i>Nat Commun</i> <b>13</b>, 3323 (2022). 
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
+  
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Efficiency of pulse pumped soliton microcombs](https://opg.optica.org/optica/fulltext.cfm?uri=optica-9-2-231&id=469629)
+Jiang Li, Chengying Bao, Qing-Xin Ji, Heming Wang, Lue Wu, Stephanie Leifer, Charles Beichman, and Kerry Vahala, "Efficiency of pulse pumped soliton microcombs," Optica 9, 231-239 (2022)
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
