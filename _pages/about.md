@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-    <div class="masthead">
+<div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
@@ -48,6 +48,7 @@ My research interest includes photonics. I have published 8 papers at journals a
 <span class='show_paper_citations' data='5wkRkHUAAAAJ:qjMakFHDy7sC'></span>
 
 <h1 id="-news">🔥 News</h1>
+
 - *2022.06*: &nbsp;🎉 Our paper "Probing material absorption and optical nonlinearity of integrated photonic materials" is published by <i>Nature Communications</i>!
 - *2022.05*: &nbsp;🎉 Our conference paper "Efficiency of pulse pumped soliton microcombs" is presented at <i>CLEO 2022</i>!
 - *2022.02*: &nbsp;🎉 Our paper "Efficiency of pulse pumped soliton microcombs" is published by <i>Optica</i>!
@@ -55,7 +56,6 @@ My research interest includes photonics. I have published 8 papers at journals a
 - *2021.07*: &nbsp;🏫 I start working at Caltech, Pasadena, California.
 
 <h1 id="-publications">📝 Publications</h1>
-# 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/Probing.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
