@@ -32,7 +32,7 @@ My research interest includes photonics. I have published 8 papers at journals a
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/Probing.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/Probing.png' alt="Probing" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 - [Probing material absorption and optical nonlinearity of integrated photonic materials](https://www.nature.com/articles/s41467-022-30966-5)
 
@@ -40,7 +40,7 @@ My research interest includes photonics. I have published 8 papers at journals a
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/Optica_pulse_pump.PNG' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/Optica_pulse_pump.PNG' alt="Optica_pulse_pump" width="100%"></div>
 <div class='paper-box-text' markdown="1">  
 - [Efficiency of pulse pumped soliton microcombs](https://opg.optica.org/optica/fulltext.cfm?uri=optica-9-2-231&id=469629)
 
@@ -48,7 +48,7 @@ My research interest includes photonics. I have published 8 papers at journals a
 </div> 
 </div>
   
-<div class='paper-box'><div class='paper-box-image'><img src='images/PRL_OMVS.PNG' alt="sym" width="60%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/PRL_OMVS.PNG' alt="PRL_OMVS" width="60%" class="center"></div>
 <div class='paper-box-text' markdown="1">
 - [Vibrational Kerr Solitons in an Optomechanical Microresonator](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.073901)
   
