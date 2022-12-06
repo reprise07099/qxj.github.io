@@ -25,8 +25,9 @@ My research interest includes photonics. I have published 8 papers at journals a
 
 # 🔥 News
 - *2022.11*: &nbsp;✈️ I work with collaborators at National Institute of Standards and Technology at Boulder, Colorado. 
-- *2022.07*: &nbsp;🎉 A paper is accepted by <i>Nature Communications</i>!
-
+- *2022.06*: &nbsp;🎉 Our paper "Probing material absorption and optical nonlinearity of integrated photonic materials" is published by <i>Nature Communications</i>!
+- *2022.02*: &nbsp;🎉 Our paper "Efficiency of pulse pumped soliton microcombs" is published by <i>Optica</i>!
+- *2021.07*: &nbsp;🏫 I start working at Caltech, Pasadena, California.
 
 # 📝 Publications 
 
