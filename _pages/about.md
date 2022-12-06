@@ -48,7 +48,7 @@ My research interest includes photonics. I have published 8 papers at journals a
 </div> 
 </div>
   
-<div class='paper-box'><div class='paper-box-image'><img src='images/PRL_OMVS.PNG' alt="PRL_OMVS" width="60%" class="center"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/PRL_OMVS.PNG' alt="PRL_OMVS" width="60%" class="centerImage"></div>
 <div class='paper-box-text' markdown="1">
 - [Vibrational Kerr Solitons in an Optomechanical Microresonator](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.073901)
   
