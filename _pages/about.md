@@ -27,6 +27,7 @@ My research interest includes photonics. I have published 8 papers at journals a
 - *2022.06*: &nbsp;🎉 Our paper "Probing material absorption and optical nonlinearity of integrated photonic materials" is published by <i>Nature Communications</i>!
 - *2022.05*: &nbsp;🎉 Our conference paper "Efficiency of pulse pumped soliton microcombs" is presented at <i>CLEO 2022</i>!
 - *2022.02*: &nbsp;🎉 Our paper "Efficiency of pulse pumped soliton microcombs" is published by <i>Optica</i>!
+- *2022.02*: &nbsp;🎉 Our paper "Vibrational Kerr Solitons in an Optomechanical Microresonator" is published by <i>Physical Review Letters</i>!
 - *2021.07*: &nbsp;🏫 I start working at Caltech, Pasadena, California.
 
 # 📝 Publications 
@@ -53,6 +54,18 @@ Jiang Li, Chengying Bao, Qing-Xin Ji, Heming Wang, Lue Wu, Stephanie Leifer, Cha
   
 </div>
   
+<div class='paper-box'><div class='paper-box-image'><img src='images/PRL_OMVS.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+- [Vibrational Kerr Solitons in an Optomechanical Microresonator](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.073901)
+  
+Jia-Chen Shi, Qing-Xin Ji, Qi-Tao Cao, Yan Yu, Wenjing Liu, Qihuang Gong, and Yun-Feng Xiao
+Phys. Rev. Lett. 128, 073901. 
+  
+</div>
+  
+</div>
+ 
 # 📖 Educations
 - *2020.09 - Now*, PhD candidate in Applied Physics, Caltech, Pasadena, California. 
 - *2021.01 - 2022.06*, Master in Applied Physics, Caltech, Pasadena, California. 
