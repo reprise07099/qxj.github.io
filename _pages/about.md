@@ -31,7 +31,7 @@ My research interest includes photonics. I have published 8 papers at journals a
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">High-Q optical microresonators</div><img src='images/Probing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [Probing material absorption and optical nonlinearity of integrated photonic materials](https://www.nature.com/articles/s41467-022-30966-5)
