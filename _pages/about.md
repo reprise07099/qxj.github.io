@@ -23,15 +23,15 @@ redirect_from:
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
           
-            <li class="masthead__menu-item"><a href="/#about-me">About Me</a></li>
+            <li class="masthead__menu-item"><a href="#about-me">About Me</a></li>
           
-            <li class="masthead__menu-item"><a href="/#-news">News</a></li>
+            <li class="masthead__menu-item"><a href="#-news">News</a></li>
           
-            <li class="masthead__menu-item"><a href="/#-publications">Publications</a></li>
+            <li class="masthead__menu-item"><a href="#-publications">Publications</a></li>
  
-            <li class="masthead__menu-item"><a href="/#-educations">Educations</a></li>
+            <li class="masthead__menu-item"><a href="#-educations">Educations</a></li>
           
-            <li class="masthead__menu-item"><a href="/#-internships">Internships</a></li>
+            <li class="masthead__menu-item"><a href="#-internships">Internships</a></li>
           
         </ul>
         <ul class="hidden-links hidden"></ul>
