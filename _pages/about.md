@@ -43,7 +43,7 @@ Gao, M., Yang, QF., Ji, QX. et al. Probing material absorption and optical nonli
   
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/Optica_pulse_pump.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/Optica_pulse_pump.PNG' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
   
 - [Efficiency of pulse pumped soliton microcombs](https://opg.optica.org/optica/fulltext.cfm?uri=optica-9-2-231&id=469629)
@@ -54,7 +54,7 @@ Jiang Li, Chengying Bao, Qing-Xin Ji, Heming Wang, Lue Wu, Stephanie Leifer, Cha
   
 </div>
   
-<div class='paper-box'><div class='paper-box-image'><img src='images/PRL_OMVS.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/PRL_OMVS.PNG' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 - [Vibrational Kerr Solitons in an Optomechanical Microresonator](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.073901)
