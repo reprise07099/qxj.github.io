@@ -45,11 +45,12 @@ Gao, M., Yang, QF., Ji, QX. et al. Probing material absorption and optical nonli
 Jiang Li, Chengying Bao, Qing-Xin Ji, Heming Wang, Lue Wu, Stephanie Leifer, Charles Beichman, and Kerry Vahala, "Efficiency of pulse pumped soliton microcombs," Optica 9, 231-239 (2022)
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - Now*, PhD candidate in Applied Physics, Caltech, Pasadena, California. 
+- *2020.09 - 2022.06*, Master in Applied Physics, Caltech, Pasadena, California. 
+- *2016.09 - 2020.06*, Undergraduate in Physics, Peking University, Beijing. 
 
 # 💻 Internships
 - *2020*, research assistant at [Yun-Feng Xiao research group](http://researchgroups.pku.edu.cn/microcavity), Peking University.
