@@ -54,6 +54,7 @@ My research interest includes photonics. I have published 8 papers at journals a
 - *2022.02*: &nbsp;🎉 Our paper "Vibrational Kerr Solitons in an Optomechanical Microresonator" is published by <i>Physical Review Letters</i>!
 - *2021.07*: &nbsp;🏫 I start working at Caltech, Pasadena, California.
 
+<h1 id="-publications">📝 Publications</h1>
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/Probing.png' alt="sym" width="100%"></div>
