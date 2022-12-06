@@ -35,6 +35,7 @@ My research interest includes photonics. I have published 8 papers at journals a
 <div class='paper-box-text' markdown="1">
 
 - [Probing material absorption and optical nonlinearity of integrated photonic materials](https://www.nature.com/articles/s41467-022-30966-5)
+
 Gao, M., Yang, QF., Ji, QX. et al. Probing material absorption and optical nonlinearity of integrated photonic materials. <i>Nat Commun</i> <b>13</b>, 3323 (2022). 
 
 </div>
@@ -42,7 +43,8 @@ Gao, M., Yang, QF., Ji, QX. et al. Probing material absorption and optical nonli
 </div>
 
 - [Efficiency of pulse pumped soliton microcombs](https://opg.optica.org/optica/fulltext.cfm?uri=optica-9-2-231&id=469629)
-- Jiang Li, Chengying Bao, Qing-Xin Ji, Heming Wang, Lue Wu, Stephanie Leifer, Charles Beichman, and Kerry Vahala, "Efficiency of pulse pumped soliton microcombs," Optica 9, 231-239 (2022)
+
+Jiang Li, Chengying Bao, Qing-Xin Ji, Heming Wang, Lue Wu, Stephanie Leifer, Charles Beichman, and Kerry Vahala, "Efficiency of pulse pumped soliton microcombs," Optica 9, 231-239 (2022)
 
 # 🎖 Honors and Awards
 - 
