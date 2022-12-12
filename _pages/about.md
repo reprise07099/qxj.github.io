@@ -74,12 +74,10 @@ Phys. Rev. Lett. 128, 073901.
 </div> 
 </div>
  
-<div class='paper-box'>
+<div class='paper-box'><div class='paper-box-image'><img src='images/OL_billionQ.PNG' alt="OL_billionQ" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 - [Greater than one billion Q factor for on-chip microresonators](https://opg.optica.org/ol/fulltext.cfm?uri=ol-45-18-5129&id=438503)
   
-<div class='paper-box'><div class='paper-box-image'><img src='images/OL_billionQ.PNG' alt="OL_billionQ" width="100%"></div>
-<div class='paper-box-text' markdown="1">
   Lue Wu, Heming Wang, Qifan Yang, Qing-xin Ji, Boqiang Shen, Chengying Bao, Maodong Gao, and Kerry Vahala, "Greater than one billion Q factor for on-chip microresonators," Opt. Lett. 45, 5129-5131 (2020)
 </div> 
 </div> 
@@ -91,6 +89,7 @@ Phys. Rev. Lett. 128, 073901.
   Shen, B., Chang, L., Liu, J. et al. Integrated turnkey soliton microcombs. <i>Nature</i> <b>582</b>, 365–369 (2020). https://doi.org/10.1038/s41586-020-2358-x
 </div> 
 </div> 
+
 <div class='paper-box'><div class='paper-box-image'><img src='images/NC_Chaos.PNG' alt="PRL_OMVS" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 - [Chaos-assisted two-octave-spanning microcombs](https://www.nature.com/articles/s41467-020-15914-5)
