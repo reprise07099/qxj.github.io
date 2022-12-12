@@ -25,7 +25,7 @@ My research interest includes photonics. I have published 8 papers at journals a
 # 🔥 News
 
 - *2022.06*: &nbsp;🎉 Our paper "Probing material absorption and optical nonlinearity of integrated photonic materials" is published by <i>Nature Communications</i>!
-- *2022.05*: &nbsp;🎉 Our conference paper "Efficiency of pulse pumped soliton microcombs" is presented at <i>CLEO 2022</i>!
+- *2022.05*: &nbsp;📹 Our conference paper "Efficiency of pulse pumped soliton microcombs" is presented at <i>CLEO 2022</i>!
 - *2022.02*: &nbsp;🎉 Our paper "Efficiency of pulse pumped soliton microcombs" is published by <i>Optica</i>!
 - *2022.02*: &nbsp;🎉 Our paper "Vibrational Kerr Solitons in an Optomechanical Microresonator" is published by <i>Physical Review Letters</i>!
 - *2021.07*: &nbsp;🏫 I start working at Caltech, Pasadena, California.
