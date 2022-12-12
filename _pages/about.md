@@ -57,7 +57,7 @@ Phys. Rev. Lett. 128, 073901.
 </div> 
 </div>
 
-<div class='paper-box'>
+<div class='paper-box'><div class='paper-box-image'><img src='images/PNAS_Raman.PNG' alt="PNAS_Raman" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 - [Single-mode characteristic of a supermode microcavity Raman laser](https://www.pnas.org/doi/abs/10.1073/pnas.2101605118)
   
@@ -66,7 +66,7 @@ Phys. Rev. Lett. 128, 073901.
 </div> 
 </div>
 
-<div class='paper-box'>
+<div class='paper-box'><div class='paper-box-image'><img src='images/NC_Aphi.PNG' alt="NC_APhi" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 - [Dispersive-wave induced noise limits in miniature soliton microwave sources](https://www.nature.com/articles/s41467-021-21658-7)
   
@@ -78,7 +78,7 @@ Phys. Rev. Lett. 128, 073901.
 <div class='paper-box-text' markdown="1">
 - [Greater than one billion Q factor for on-chip microresonators](https://opg.optica.org/ol/fulltext.cfm?uri=ol-45-18-5129&id=438503)
   
-<div class='paper-box'><div class='paper-box-image'><img src='images/OL_BillionQ.PNG' alt="PRL_OMVS" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/OL_BillionQ.PNG' alt="OL_billionQ" width="100%"></div>
 <div class='paper-box-text' markdown="1">
   Lue Wu, Heming Wang, Qifan Yang, Qing-xin Ji, Boqiang Shen, Chengying Bao, Maodong Gao, and Kerry Vahala, "Greater than one billion Q factor for on-chip microresonators," Opt. Lett. 45, 5129-5131 (2020)
 </div> 
