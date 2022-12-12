@@ -61,8 +61,7 @@ Phys. Rev. Lett. 128, 073901.
 <div class='paper-box-text' markdown="1">
 - [Single-mode characteristic of a supermode microcavity Raman laser](https://www.pnas.org/doi/abs/10.1073/pnas.2101605118)
   
-  P. J. Zhang, Q. X. Ji, Q. T. Cao, H. M. Wang, W. J. Liu, Q. H. Gong, Y. F. Xiao, Proc. Natl. Acad. Sci.USA 2021, 118, e2101605118.
-Phys. Rev. Lett. 128, 073901.   
+  P. J. Zhang, Q. X. Ji, Q. T. Cao, H. M. Wang, W. J. Liu, Q. H. Gong, Y. F. Xiao, Proc. Natl. Acad. Sci.USA 2021, 118, e2101605118.  
 </div> 
 </div>
 
@@ -86,7 +85,7 @@ Phys. Rev. Lett. 128, 073901.
 <div class='paper-box-text' markdown="1">
 - [Integrated turnkey soliton microcombs](https://www.nature.com/articles/s41586-020-2358-x)
   
-  Shen, B., Chang, L., Liu, J. et al. Integrated turnkey soliton microcombs. <i>Nature</i> <b>582</b>, 365–369 (2020). https://doi.org/10.1038/s41586-020-2358-x
+  Shen, B., Chang, L., Liu, J. et al. Integrated turnkey soliton microcombs. <i>Nature</i> <b>582</b>, 365–369 (2020). 
 </div> 
 </div> 
 
@@ -94,7 +93,7 @@ Phys. Rev. Lett. 128, 073901.
 <div class='paper-box-text' markdown="1">
 - [Chaos-assisted two-octave-spanning microcombs](https://www.nature.com/articles/s41467-020-15914-5)
   
-  Chen, HJ., Ji, QX., Wang, H. et al. Chaos-assisted two-octave-spanning microcombs. <i>Nat Commun</i> <b>11</b>, 2336 (2020). https://doi.org/10.1038/s41467-020-15914-5
+  Chen, HJ., Ji, QX., Wang, H. et al. Chaos-assisted two-octave-spanning microcombs. <i>Nat Commun</i> <b>11</b>, 2336 (2020). 
 </div> 
 </div> 
 
