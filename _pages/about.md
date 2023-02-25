@@ -32,6 +32,15 @@ My research interest includes photonics. I have published 8 papers at journals a
 
 # 📝 Publications
 
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/Optica_zero_GVD.png' alt="Probing" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+- [Engineered zero-dispersion microcombs using CMOS-ready photonics]([https://www.nature.com/articles/s41467-022-30966-5](https://opg.optica.org/abstract.cfm?URI=optica-10-2-279))
+
+  Qing-Xin Ji, Warren Jin, Lue Wu, Yan Yu, Zhiquan Yuan, Wei Zhang, Maodong Gao, Bohan Li, Heming Wang, Chao Xiang, Joel Guo, Avi Feshali, Mario Paniccia, Vladimir S. Ilchenko, Andrey B. Matsko, John E. Bowers, and Kerry J. Vahala, "Engineered zero-dispersion microcombs using CMOS-ready photonics," Optica 10, 279-285 (2023). 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><img src='images/Probing.png' alt="Probing" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 - [Probing material absorption and optical nonlinearity of integrated photonic materials](https://www.nature.com/articles/s41467-022-30966-5)
