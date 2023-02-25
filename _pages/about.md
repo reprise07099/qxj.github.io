@@ -34,7 +34,7 @@ My research interest includes photonics. I have published 8 papers at journals a
 # 📝 Publications
 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/Optica_zero_GVD.png' alt="Optica_zero_GVD" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/Zero.png' alt="Zero" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 - [Engineered zero-dispersion microcombs using CMOS-ready photonics](https://opg.optica.org/abstract.cfm?URI=optica-10-2-279)
   
