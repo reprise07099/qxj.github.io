@@ -24,6 +24,7 @@ My research interest includes photonics. I have published 9 papers at journals a
 
 # 🔥 News
 
+- *2023.05*: &nbsp;📹 Our conference paper "Engineered zero GVD microcomb using CMOS ready photonics" is presented at <i>CLEO 2023</i>!
 - *2023.02*: &nbsp;🎉 Our paper "Engineered zero-dispersion microcombs using CMOS-ready photonics" is published by <i>Optica</i>!
 - *2022.06*: &nbsp;🎉 Our paper "Probing material absorption and optical nonlinearity of integrated photonic materials" is published by <i>Nature Communications</i>!
 - *2022.05*: &nbsp;📹 Our conference paper "Efficiency of pulse pumped soliton microcombs" is presented at <i>CLEO 2022</i>!
