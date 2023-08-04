@@ -24,6 +24,8 @@ My research interest includes photonics. I have published 9 papers at journals a
 
 # 🔥 News
 
+- *2023.08*: &nbsp;🎉 Our paper "3D integration enables ultralow-noise isolator-free lasers in silicon photonics" is published by <i>Nature</i>!
+- *2023.08*: &nbsp;🎉 Our paper "Soliton pulse pairs at multiple colors in normal dispersion microresonators" is published by <i>Nature Photonics</i>!
 - *2023.05*: &nbsp;📹 Our conference paper "Engineered zero GVD microcomb using CMOS ready photonics" is presented at <i>CLEO 2023</i>!
 - *2023.02*: &nbsp;🎉 Our paper "Engineered zero-dispersion microcombs using CMOS-ready photonics" is published by <i>Optica</i>!
 - *2022.06*: &nbsp;🎉 Our paper "Probing material absorption and optical nonlinearity of integrated photonic materials" is published by <i>Nature Communications</i>!
@@ -34,6 +36,21 @@ My research interest includes photonics. I have published 9 papers at journals a
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><img src='images/dirac.png' alt="Zero" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+- [Soliton pulse pairs at multiple colours in normal dispersion microresonators](https://doi.org/10.1038/s41566-023-01257-2)
+  
+  Yuan, Z., Gao, M., Yu, Y. et al. Soliton pulse pairs at multiple colours in normal dispersion microresonators. Nat. Photon. (2023).
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/3D.png' alt="Zero" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+- [3D integration enables ultralow-noise isolator-free lasers in silicon photonics](https://doi.org/10.1038/s41586-023-06251-w)
+  
+  Xiang, C., Jin, W., Terra, O. et al. 3D integration enables ultralow-noise isolator-free lasers in silicon photonics. Nature 620, 78–85 (2023).
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/Zero.png' alt="Zero" width="100%"></div>
 <div class='paper-box-text' markdown="1">
