@@ -40,6 +40,7 @@ My research interest includes photonics. I have published 17 papers at journals 
 <div class='paper-box'><div class='paper-box-image'><img src='images/Moire.PNG' alt="Moire" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 - [Multimodality integrated microresonators using the Moiré speedup effect](https://www.science.org/doi/full/10.1126/science.adk9429)
+- [Perspective: Two rings to rule them all](https://www.science.org/doi/10.1126/science.ado0078)
   
  Ji, Q. X., Liu, P., Jin, W., Guo, J., Wu, L., Yuan, Z., ... & Vahala, K. J. (2024). Multimodality integrated microresonators using the Moiré speedup effect. Science, 383(6687), 1080-1083.
 </div>
