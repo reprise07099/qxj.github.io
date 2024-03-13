@@ -23,7 +23,7 @@ My research interest includes photonics. I have published 11 papers at journals 
 <span class='show_paper_citations' data='5wkRkHUAAAAJ:qjMakFHDy7sC'></span>
 
 # 🔥 News
-
+- *2024.03*: &nbsp;🎉 Our paper "Multimodality integrated microresonators using the Moiré speedup effect" is published by <i>Nature</i>!
 - *2023.08*: &nbsp;🎉 Our paper "3D integration enables ultralow-noise isolator-free lasers in silicon photonics" is published by <i>Nature</i>!
 - *2023.08*: &nbsp;🎉 Our paper "Soliton pulse pairs at multiple colors in normal dispersion microresonators" is published by <i>Nature Photonics</i>!
 - *2023.05*: &nbsp;📹 Our conference paper "Engineered zero GVD microcomb using CMOS ready photonics" is presented at <i>CLEO 2023</i>!
