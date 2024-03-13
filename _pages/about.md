@@ -37,11 +37,11 @@ My research interest includes photonics. I have published 11 papers at journals 
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/GryphonI.png' alt="GryphonI" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/Moire.png' alt="Moire" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 - [Multimodality integrated microresonators using the Moiré speedup effect](https://www.science.org/doi/full/10.1126/science.adk9429)
   
- Qing-Xin Ji et al. ,Multimodality integrated microresonators using the Moiré speedup effect.Science383,1080-1083(2024). 
+ Ji, Q. X., Liu, P., Jin, W., Guo, J., Wu, L., Yuan, Z., ... & Vahala, K. J. (2024). Multimodality integrated microresonators using the Moiré speedup effect. Science, 383(6687), 1080-1083.
 </div>
 </div>
 
