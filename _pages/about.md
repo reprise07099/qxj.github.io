@@ -23,7 +23,8 @@ My research interest includes photonics. I have published 11 papers at journals 
 <span class='show_paper_citations' data='5wkRkHUAAAAJ:qjMakFHDy7sC'></span>
 
 # 🔥 News
-- *2024.03*: &nbsp;🎉 Our paper "Multimodality integrated microresonators using the Moiré speedup effect" is published by <i>Nature</i>!
+- *2024.03*: &nbsp;🎉 Our paper "Multimodality integrated microresonators using the Moiré speedup effect" is published by <i>Science</i>!
+- *2024.03*: &nbsp;🎉 Our paper "Photonic chip-based low-noise microwave oscillator" is published by <i>Nature</i>!
 - *2023.08*: &nbsp;🎉 Our paper "3D integration enables ultralow-noise isolator-free lasers in silicon photonics" is published by <i>Nature</i>!
 - *2023.08*: &nbsp;🎉 Our paper "Soliton pulse pairs at multiple colors in normal dispersion microresonators" is published by <i>Nature Photonics</i>!
 - *2023.05*: &nbsp;📹 Our conference paper "Engineered zero GVD microcomb using CMOS ready photonics" is presented at <i>CLEO 2023</i>!
@@ -35,6 +36,14 @@ My research interest includes photonics. I have published 11 papers at journals 
 - *2021.07*: &nbsp;🏫 I start working at Caltech, Pasadena, California.
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/dirac.png' alt="Zero" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+- [Photonic chip-based low-noise microwave oscillator](https://doi.org/10.1038/s41586-024-07058-z)
+  
+  Kudelin, I., Groman, W., Ji, QX. et al. Photonic chip-based low-noise microwave oscillator. Nature (2024). 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/dirac.png' alt="Zero" width="100%"></div>
 <div class='paper-box-text' markdown="1">
