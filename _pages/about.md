@@ -37,7 +37,7 @@ My research interest includes photonics. I have published 11 papers at journals 
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/Moire.png' alt="Moire" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/Moire.PNG' alt="Moire" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 - [Multimodality integrated microresonators using the Moiré speedup effect](https://www.science.org/doi/full/10.1126/science.adk9429)
   
@@ -45,7 +45,7 @@ My research interest includes photonics. I have published 11 papers at journals 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/GryphonI.png' alt="GryphonI" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/GryphonI.PNG' alt="GryphonI" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 - [Photonic chip-based low-noise microwave oscillator](https://doi.org/10.1038/s41586-024-07058-z)
   
