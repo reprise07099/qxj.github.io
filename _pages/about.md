@@ -15,6 +15,16 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G2BYN90126"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G2BYN90126');
+</script>
+
 <span class='anchor' id='about-me'></span>
 
 I am a PhD candidate in Applied Physics, Caltech. [Group website](https://vahala.caltech.edu/)
