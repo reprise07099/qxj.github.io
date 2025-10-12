@@ -35,7 +35,7 @@ My research interest includes photonics. I have published 17 papers at journals 
 # 🔥 News
 - *2025.07*: &nbsp;🏫 I start as a postdoc at Caltech, Pasadena, California.
 - *2025.05*: &nbsp;🏫 I defended my thesis at Caltech.
-- *2024.03*: &nbsp;🎉 Our paper "Multimodality integrated microresonators using the Moiré speedup effect" is published by <i>Science</i>!
+- *2024.03*: &nbsp;🎉 Our paper "Multimodality integrated microresonators using the Moiré speedup effect" is featured by [<i>Science</i>](https://www.science.org/doi/10.1126/science.ado0078)!
 - *2023.05*: &nbsp;📹 Our conference paper "Engineered zero GVD microcomb using CMOS ready photonics" is presented at <i>CLEO 2023</i>!
 - *2022.05*: &nbsp;📹 Our conference paper "Efficiency of pulse pumped soliton microcombs" is presented at <i>CLEO 2022</i>!
 - *2021.01*: &nbsp;🏫 I start my PhD at Caltech, Pasadena, California.
@@ -144,20 +144,6 @@ Phys. Rev. Lett. 128, 073901.
 <div class='paper-box-text' markdown="1">
 - [Greater than one billion Q factor for on-chip microresonators](https://opg.optica.org/ol/fulltext.cfm?uri=ol-45-18-5129&id=438503)
   
-  Lue Wu, Heming Wang, Qifan Yang, Qing-xin Ji, Boqiang Shen, Chengying Bao, Maodong Gao, and Kerry Vahala, "Greater than one billion Q factor for on-chip microresonators," Opt. Lett. 45, 5129-5131 (2020)
-</div> 
-</div> 
-
-<div class='paper-box'><div class='paper-box-image'><img src='images/Nature_turnkey.PNG' alt="PRL_OMVS" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-- [Integrated turnkey soliton microcombs](https://www.nature.com/articles/s41586-020-2358-x)
-  
-  Shen, B., Chang, L., Liu, J. et al. Integrated turnkey soliton microcombs. <i>Nature</i> <b>582</b>, 365–369 (2020). 
-</div> 
-</div> 
-
-<div class='paper-box'><div class='paper-box-image'><img src='images/NC_Chaos.PNG' alt="PRL_OMVS" width="100%"></div>
-<div class='paper-box-text' markdown="1">
 - [Chaos-assisted two-octave-spanning microcombs](https://www.nature.com/articles/s41467-020-15914-5)
   
   Chen, HJ., Ji, QX., Wang, H. et al. Chaos-assisted two-octave-spanning microcombs. <i>Nat Commun</i> <b>11</b>, 2336 (2020). 
