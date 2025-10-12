@@ -33,7 +33,7 @@ My research interest includes photonics. I have published 17 papers at journals 
 <span class='show_paper_citations' data='5wkRkHUAAAAJ:qjMakFHDy7sC'></span>
 
 # 🔥 News
-- *2024.03*: &nbsp;🎉 I was chosen as a finalist for [2025 rising star of light](https://www.nature.com/lsa/news)! 
+- *2025.10*: &nbsp;🎉 I was chosen as a finalist for [2025 rising star of light](https://www.nature.com/lsa/news)! 
 - *2025.07*: &nbsp;🏫 I start as a postdoc at Caltech, Pasadena, California.
 - *2025.06*: &nbsp;📹 I was invited as a speaker at European Conference on Integrated Optics to present my thesis research! 
 - *2025.05*: &nbsp;🏫 I defended my thesis, entitled, [Optical Frequency Division Using High-Q Integrated Photonics](https://www.proquest.com/openview/8ef205ad928ac29e8877f5271fe1969e/1?pq-origsite=gscholar&cbl=18750&diss=y).
