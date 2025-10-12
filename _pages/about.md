@@ -33,9 +33,12 @@ My research interest includes photonics. I have published 17 papers at journals 
 <span class='show_paper_citations' data='5wkRkHUAAAAJ:qjMakFHDy7sC'></span>
 
 # 🔥 News
+- *2024.03*: &nbsp;🎉 I was chosen as a finalist for [2025 rising star of light](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.light-am.com/fileGXJZZ/cms/news/info/2025/10/a903a0cd02a14b10a43c04e99844c1a1/Finalists%202025%20Rising%20Stars%20of%20Light.pdf)! 
 - *2025.07*: &nbsp;🏫 I start as a postdoc at Caltech, Pasadena, California.
+- *2025.06*: &nbsp;📹 I was invited as a speaker at European Conference on Integrated Optics to present my thesis research! 
 - *2025.05*: &nbsp;🏫 I defended my thesis, entitled, [Optical Frequency Division Using High-Q Integrated Photonics](https://www.proquest.com/openview/8ef205ad928ac29e8877f5271fe1969e/1?pq-origsite=gscholar&cbl=18750&diss=y).
-- *2024.08*: &nbsp;📹 I presented my research [Miniature High-Performance Microwave Oscillators Using Optical Frequency Division](https://www.nasa.gov/smallsat-institute/2024-nasa-short-talks-session-5/), funded by <i>University SmallSat Technology Partnership 2023)<i> at NASA! 
+- *2025.03*: &nbsp;🎉 I presented my research at [IEEE photonics society](https://www.oewaves.com/resources/ieee-photonics-journals-club-with-lute-maleki). The research is also highlighted by IEEE with a [news publication](https://ieeephotonics.org/announcements/experts-discuss-the-future-of-photonic-chip-based-microwave-generation-in-ieee-journal-of-selected-topics-in-quantum-electronics/). 
+- *2024.08*: &nbsp;📹 I presented my research [Miniature High-Performance Microwave Oscillators Using Optical Frequency Division](https://www.nasa.gov/smallsat-institute/2024-nasa-short-talks-session-5/), funded by <i>University SmallSat Technology Partnership 2023<i> at NASA! 
 - *2024.03*: &nbsp;🎉 Our paper "Multimodality integrated microresonators using the Moiré speedup effect" is featured by [<i>Science</i>](https://www.science.org/doi/10.1126/science.ado0078)!
 - *2023.05*: &nbsp;📹 Our conference paper "Engineered zero GVD microcomb using CMOS ready photonics" is presented at <i>CLEO 2023</i>!
 - *2022.05*: &nbsp;📹 Our conference paper "Efficiency of pulse pumped soliton microcombs" is presented at <i>CLEO 2022</i>!
