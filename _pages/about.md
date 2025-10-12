@@ -140,10 +140,9 @@ Phys. Rev. Lett. 128, 073901.
 </div> 
 </div>
  
-<div class='paper-box'><div class='paper-box-image'><img src='images/OL_billionQ.PNG' alt="OL_billionQ" width="100%"></div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/NC_Chaos.PNG' alt="NC_Chaos" width="100%"></div>
 <div class='paper-box-text' markdown="1">
-- [Greater than one billion Q factor for on-chip microresonators](https://opg.optica.org/ol/fulltext.cfm?uri=ol-45-18-5129&id=438503)
-  
 - [Chaos-assisted two-octave-spanning microcombs](https://www.nature.com/articles/s41467-020-15914-5)
   
   Chen, HJ., Ji, QX., Wang, H. et al. Chaos-assisted two-octave-spanning microcombs. <i>Nat Commun</i> <b>11</b>, 2336 (2020). 
