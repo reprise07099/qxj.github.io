@@ -46,7 +46,7 @@ My research focuses on leveraging high-Q integrated photonics to enable the next
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/NP_OFD.jpg' alt="NP_OFD" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/Optica_piezo.jpg' alt="Optica_piezo" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 - [Separable integrated frequency control of a microcomb](https://opg.optica.org/optica/fulltext.cfm?uri=optica-12-9-1350)
   
