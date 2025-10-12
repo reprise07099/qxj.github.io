@@ -42,7 +42,7 @@ My research interest includes photonics. I have published 17 papers at journals 
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/NP_OFD.PNG' alt="NP_OFD" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/NP_OFD.jpg' alt="NP_OFD" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 - [Dispersive-wave-agile optical frequency division](https://www.nature.com/articles/s41566-025-01667-4)
   
@@ -50,7 +50,7 @@ My research interest includes photonics. I have published 17 papers at journals 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/NC_near_visible.PNG' alt="NC_near_visible" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/NC_near_visible.jpg' alt="NC_near_visible" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 - [Near-visible integrated soliton microcombs with detectable repetition rates]([https://www.nature.com/articles/s41566-025-01667-4](https://www.nature.com/articles/s41467-025-60157-x)
   
