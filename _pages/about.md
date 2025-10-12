@@ -48,6 +48,14 @@ My research focuses on leveraging high-Q integrated photonics to enable the next
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/NP_OFD.jpg' alt="NP_OFD" width="100%"></div>
 <div class='paper-box-text' markdown="1">
+- [Separable integrated frequency control of a microcomb](https://opg.optica.org/optica/fulltext.cfm?uri=optica-12-9-1350)
+  
+Jin-Yu Liu, Hao Tian, Qing-Xin Ji, Shuman Sun, Wei Zhang, Joel Guo, Warren Jin, John E. Bowers, Andrey B. Matsko, Mohammad Mirhosseini, and Kerry J. Vahala. "Separable integrated frequency control of a microcomb," Optica 12, 1350-1356 (2025). 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/NP_OFD.jpg' alt="NP_OFD" width="100%"></div>
+<div class='paper-box-text' markdown="1">
 - [Dispersive-wave-agile optical frequency division](https://www.nature.com/articles/s41566-025-01667-4)
   
  Ji, QX., Zhang, W., Savchenkov, A. et al. Dispersive-wave-agile optical frequency division. Nat. Photon. 19, 624–629 (2025). 
