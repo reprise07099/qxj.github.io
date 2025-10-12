@@ -33,19 +33,30 @@ My research interest includes photonics. I have published 17 papers at journals 
 <span class='show_paper_citations' data='5wkRkHUAAAAJ:qjMakFHDy7sC'></span>
 
 # 🔥 News
+- *2025.07*: &nbsp;🏫 I start as a postdoc at Caltech, Pasadena, California.
+- *2025.05*: &nbsp;🏫 I defended my thesis at Caltech.
 - *2024.03*: &nbsp;🎉 Our paper "Multimodality integrated microresonators using the Moiré speedup effect" is published by <i>Science</i>!
-- *2024.03*: &nbsp;🎉 Our paper "Photonic chip-based low-noise microwave oscillator" is published by <i>Nature</i>!
-- *2023.08*: &nbsp;🎉 Our paper "3D integration enables ultralow-noise isolator-free lasers in silicon photonics" is published by <i>Nature</i>!
-- *2023.08*: &nbsp;🎉 Our paper "Soliton pulse pairs at multiple colors in normal dispersion microresonators" is published by <i>Nature Photonics</i>!
 - *2023.05*: &nbsp;📹 Our conference paper "Engineered zero GVD microcomb using CMOS ready photonics" is presented at <i>CLEO 2023</i>!
-- *2023.02*: &nbsp;🎉 Our paper "Engineered zero-dispersion microcombs using CMOS-ready photonics" is published by <i>Optica</i>!
-- *2022.06*: &nbsp;🎉 Our paper "Probing material absorption and optical nonlinearity of integrated photonic materials" is published by <i>Nature Communications</i>!
 - *2022.05*: &nbsp;📹 Our conference paper "Efficiency of pulse pumped soliton microcombs" is presented at <i>CLEO 2022</i>!
-- *2022.02*: &nbsp;🎉 Our paper "Efficiency of pulse pumped soliton microcombs" is published by <i>Optica</i>!
-- *2022.02*: &nbsp;🎉 Our paper "Vibrational Kerr Solitons in an Optomechanical Microresonator" is published by <i>Physical Review Letters</i>!
-- *2021.07*: &nbsp;🏫 I start working at Caltech, Pasadena, California.
+- *2021.01*: &nbsp;🏫 I start my PhD at Caltech, Pasadena, California.
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/NP_OFD.PNG' alt="NP_OFD" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+- [Dispersive-wave-agile optical frequency division](https://www.nature.com/articles/s41566-025-01667-4)
+  
+ Ji, QX., Zhang, W., Savchenkov, A. et al. Dispersive-wave-agile optical frequency division. Nat. Photon. 19, 624–629 (2025). 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/NC_near_visible.PNG' alt="NC_near_visible" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+- [Near-visible integrated soliton microcombs with detectable repetition rates]([https://www.nature.com/articles/s41566-025-01667-4](https://www.nature.com/articles/s41467-025-60157-x)
+  
+ Liu, P., Ji, QX., Liu, JY. et al. Near-visible integrated soliton microcombs with detectable repetition rates. Nat Commun 16, 4780 (2025).
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/Moire.PNG' alt="Moire" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -154,7 +165,7 @@ Phys. Rev. Lett. 128, 073901.
 </div> 
 
 # 📖 Educations
-- *2020.09 - Now*, PhD candidate in Applied Physics, Caltech, Pasadena, California. 
+- *2021.01 - 2025.06, PhD candidate in Applied Physics, Caltech, Pasadena, California. 
 - *2021.01 - 2022.06*, Master in Applied Physics, Caltech, Pasadena, California. 
 - *2016.09 - 2020.06*, Undergraduate in Physics, Peking University, Beijing. 
 
