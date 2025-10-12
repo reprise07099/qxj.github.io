@@ -34,7 +34,7 @@ My research interest includes photonics. I have published 17 papers at journals 
 
 # 🔥 News
 - *2025.07*: &nbsp;🏫 I start as a postdoc at Caltech, Pasadena, California.
-- *2025.05*: &nbsp;🏫 I defended my thesis at Caltech.
+- *2025.05*: &nbsp;🏫 I defended my thesis, entitled, [Optical Frequency Division Using High-Q Integrated Photonics](https://www.proquest.com/openview/8ef205ad928ac29e8877f5271fe1969e/1?pq-origsite=gscholar&cbl=18750&diss=y).
 - *2024.03*: &nbsp;🎉 Our paper "Multimodality integrated microresonators using the Moiré speedup effect" is featured by [<i>Science</i>](https://www.science.org/doi/10.1126/science.ado0078)!
 - *2023.05*: &nbsp;📹 Our conference paper "Engineered zero GVD microcomb using CMOS ready photonics" is presented at <i>CLEO 2023</i>!
 - *2022.05*: &nbsp;📹 Our conference paper "Efficiency of pulse pumped soliton microcombs" is presented at <i>CLEO 2022</i>!
@@ -52,7 +52,7 @@ My research interest includes photonics. I have published 17 papers at journals 
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/NC_near_visible.jpg' alt="NC_near_visible" width="100%"></div>
 <div class='paper-box-text' markdown="1">
-- [Near-visible integrated soliton microcombs with detectable repetition rates]([https://www.nature.com/articles/s41566-025-01667-4](https://www.nature.com/articles/s41467-025-60157-x)
+- [Near-visible integrated soliton microcombs with detectable repetition rates](https://www.nature.com/articles/s41467-025-60157-x)
   
  Liu, P., Ji, QX., Liu, JY. et al. Near-visible integrated soliton microcombs with detectable repetition rates. Nat Commun 16, 4780 (2025).
 </div>
