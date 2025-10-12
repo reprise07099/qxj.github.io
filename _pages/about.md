@@ -29,7 +29,7 @@ redirect_from:
 
 I am a PhD candidate in Applied Physics, Caltech. [Group website](https://vahala.caltech.edu/)
 
-My research focuses on leveraging high-Q integrated photonics to enable the next generation of timing, navigation, and sensing systems, through innovations in microresonator frequency combs, integrayed lasers, and dispersion-engineered coupled resonators. 
+My research focuses on leveraging high-Q integrated photonics to enable the next generation of timing, navigation, and sensing systems, through innovations in microresonator frequency combs, integrated lasers, and dispersion-engineered coupled resonators. 
 <span class='show_paper_citations' data='5wkRkHUAAAAJ:qjMakFHDy7sC'></span>
 
 # 🔥 News
