@@ -154,7 +154,7 @@ Phys. Rev. Lett. 128, 073901.
 </div> 
 
 # 📖 Educations
-- *2021.01 - 2025.06, PhD candidate in Applied Physics, Caltech, Pasadena, California. 
+- *2021.01 - 2025.06*, PhD candidate in Applied Physics, Caltech, Pasadena, California. 
 - *2021.01 - 2022.06*, Master in Applied Physics, Caltech, Pasadena, California. 
 - *2016.09 - 2020.06*, Undergraduate in Physics, Peking University, Beijing. 
 
