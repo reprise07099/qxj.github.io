@@ -27,13 +27,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD candidate in Applied Physics, Caltech. [Group website](https://vahala.caltech.edu/)
+I am a postdoc researcher in Applied Physics, Caltech. [Group website](https://vahala.caltech.edu/)
 
 My research focuses on leveraging high-Q integrated photonics to enable the next generation of timing, navigation, and sensing systems, through innovations in microresonator frequency combs, integrated lasers, and dispersion-engineered coupled resonators. 
 <span class='show_paper_citations' data='5wkRkHUAAAAJ:qjMakFHDy7sC'></span>
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉 I was chosen as a finalist for [2025 rising star of light](https://www.nature.com/lsa/news)! 
+- *2025.10*: &nbsp;🎉 I am chosen as a finalist for [2025 rising star of light](https://www.nature.com/lsa/news)! 
 - *2025.07*: &nbsp;🏫 I start as a postdoc at Caltech, Pasadena, California.
 - *2025.06*: &nbsp;📹 I was invited as a speaker at European Conference on Integrated Optics to present my thesis research! 
 - *2025.05*: &nbsp;🏫 I defended my thesis, entitled, [Optical Frequency Division Using High-Q Integrated Photonics](https://www.proquest.com/openview/8ef205ad928ac29e8877f5271fe1969e/1?pq-origsite=gscholar&cbl=18750&diss=y).
