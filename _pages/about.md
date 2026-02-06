@@ -27,14 +27,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a postdoc researcher in Applied Physics, Caltech. [Group website](https://vahala.caltech.edu/)
+I am a postdoc researcher in Department of Physics, ETHZ. [Group website]([https://tiqi.ethz.ch/])
 
-My research focuses on leveraging high-Q integrated photonics to enable the next generation of timing, navigation, and sensing systems, through innovations in microresonator frequency combs, integrated lasers, and dispersion-engineered coupled resonators. 
+During my postdoc, I am developing integrated photonic circuits for trapped-ion quantum information processing. My PhD research focuses on leveraging high-Q integrated photonics to enable the next generation of timing, navigation, and sensing systems, through innovations in microresonator frequency combs and integrated lasers. 
 <span class='show_paper_citations' data='5wkRkHUAAAAJ:qjMakFHDy7sC'></span>
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉 I am chosen as a finalist for [2025 rising star of light](https://www.nature.com/lsa/news)! 
-- *2025.07*: &nbsp;🏫 I start as a postdoc at Caltech, Pasadena, California.
+- *2026.02*: &nbsp;🏫 I start as a postdoc at ETH Zurich, Zurich, Swizerland.
+- *2025.10*: &nbsp;🎉 I am chosen as final winner for [2025 rising star of light](https://www.nature.com/lsa/news)! 
 - *2025.06*: &nbsp;📹 I was invited as a speaker at European Conference on Integrated Optics to present my thesis research! 
 - *2025.05*: &nbsp;🏫 I defended my thesis, entitled, [Optical Frequency Division Using High-Q Integrated Photonics](https://www.proquest.com/openview/8ef205ad928ac29e8877f5271fe1969e/1?pq-origsite=gscholar&cbl=18750&diss=y).
 - *2025.03*: &nbsp;🎉 I presented my research at [IEEE photonics society](https://www.oewaves.com/resources/ieee-photonics-journals-club-with-lute-maleki). The research is also highlighted by IEEE with a [news publication](https://ieeephotonics.org/announcements/experts-discuss-the-future-of-photonic-chip-based-microwave-generation-in-ieee-journal-of-selected-topics-in-quantum-electronics/). 
