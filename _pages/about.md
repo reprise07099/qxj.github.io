@@ -27,7 +27,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a postdoc researcher in Department of Physics, ETHZ. [Group website]([https://tiqi.ethz.ch/])
+I am a postdoc researcher in Department of Physics, ETHZ. [Group website](https://tiqi.ethz.ch)
 
 During my postdoc, I am developing integrated photonic circuits for trapped-ion quantum information processing. My PhD research focuses on leveraging high-Q integrated photonics to enable the next generation of timing, navigation, and sensing systems, through innovations in microresonator frequency combs and integrated lasers. 
 <span class='show_paper_citations' data='5wkRkHUAAAAJ:qjMakFHDy7sC'></span>
